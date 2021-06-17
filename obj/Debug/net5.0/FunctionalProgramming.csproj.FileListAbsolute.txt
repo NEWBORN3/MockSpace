@@ -1,0 +1,16 @@
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.exe
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.deps.json
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.runtimeconfig.json
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.runtimeconfig.dev.json
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.dll
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\bin\Debug\net5.0\ref\FunctionalProgramming.dll
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\bin\Debug\net5.0\FunctionalProgramming.pdb
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.csprojAssemblyReference.cache
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.AssemblyInfoInputs.cache
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.AssemblyInfo.cs
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.dll
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\ref\FunctionalProgramming.dll
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.pdb
+E:\Wonder\WorkSpace\Exercise\FunctionalProgramming\obj\Debug\net5.0\FunctionalProgramming.genruntimeconfig.cache
